@@ -28,7 +28,7 @@ import (
 )
 
 type GeneralResponse struct {
-	Code int
+	
 	Msg  string
 }
 
